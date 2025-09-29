@@ -12,4 +12,4 @@ const ehPar = (numero) => {
 
 // console.log(ehPar)
 // console.log(ehPar(numero));
-console.log(`O número ${numero} ser par é uma afirmativa ${ehPar(numero)}.`);
+console.log(`O número ${numero} ser par é ${ehPar(numero)}.`);
